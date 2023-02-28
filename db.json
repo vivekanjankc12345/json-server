@@ -1,7 +1,8 @@
-[
-	{
+{
+    "data" :[
+      {
         "id":1,
-		"company": "Ellette",
+        "company": "Ellette",
 		"postedAt": "2021-03-30",
 		"city": "Gangtok",
 		"location": "American Samoa",
@@ -10,10 +11,10 @@
 		"contract": "Full Time",
 		"position": " Backend Developer",
 		"language": "Java"
-	},
-	{
+      },
+      {
         "id":2,
-		"company": "Jinny",
+        "company": "Jinny",
 		"postedAt": "2021-09-09",
 		"city": "Ludhiana",
 		"location": "Belgium",
@@ -22,5 +23,8 @@
 		"contract": "Full Time",
 		"position": "Junior Frontend Developer",
 		"language": "Java"
-	}
-]
+      }
+    ]
+    
+   
+  }
